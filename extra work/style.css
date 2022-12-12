@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+ body{
+    background: rgb(240, 198, 218);
+ }
+.part1{
+    display: flex;
+width: 700px;
+height: 430px;
+background: white;
+margin-top: 80px;
+margin-left: 300px;
+
+}
+.shoes_part{
+    width: 55%;
+    
+}
+.photo{
+    width: 250px;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    transition: 0.5s;
+    
+}
+.photo:hover{
+    transform: scale(0.5);
+    
+
+}
+.size{
+    padding-left: 40px;
+    color: rgb(215, 162, 188) ;
+}
+.but{
+    width: 25px;
+    height: 30px;
+    margin-left: 1px;
+    background: white;
+    border: 1px solid rgb(215, 162, 188);
+}
+.part2{
+    
+    width: 45%;
+
+}
+.right{
+    color: rgb(215, 162, 188);
+    font-size: 20px;
+    padding-top: 50px;
+}
+.h1{
+    color: rgb(92, 87, 87);
+}
+.cena{
+    color:  rgb(215, 162, 188);
+}
+.box{
+margin-top: 30px;
+width: 125px;
+height: 35px;
+background:rgb(235, 166, 199) ;
+border: 1px solid rgb(215, 162, 188);
+}
+.word{
+    color: white;
+
+}
+.box2{
+    margin-top: 30px;
+    width: 35px;
+    height: 35px;
+    background:rgb(235, 166, 199) ;
+    border: 1px solid rgb(235, 166, 199);
+}
+
+
+
+
+
+
+
+
